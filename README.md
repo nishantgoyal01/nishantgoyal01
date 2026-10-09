@@ -7,14 +7,14 @@
 
 - 🔭 Building AI, backend, and systems projects
 - 💡 Interested in C++, Python, AI/ML, RAG, and FinTech
-- 🧠 300+ LeetCode problems
+- 🧠 400+ LeetCode problems
 - 📈 Interested in financial markets and quantitative systems
 - 🛠️ Currently working on projects involving RAG, Vector Databases and C++
 
 ## 🧰 Tech Stack
 
 **Languages:**  
-C++ • Python • SQL
+C++ • Python • SQL • JavaScript
 
 **Backend:**  
 FastAPI •RestAPIs
